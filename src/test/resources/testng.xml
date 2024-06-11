@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Test Suite">
+    <test name="Base Tests">
+        <classes>
+            <class name="Base.TestClass1"/>
+            <class name="Base.TestClass2"/>
+            <!-- Agrega todas las clases de test que necesites -->
+        </classes>
+    </test>
+</suite>
