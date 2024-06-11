@@ -2,8 +2,9 @@
 <suite name="Test Suite">
     <test name="Base Tests">
         <classes>
-            <class name="Base.TestClass1"/>
-            <class name="Base.TestClass2"/>
+            <class name="Base.BaseApi"/>
+            <class name="Base.BaseEbay"/>
+             <class name="Base.BaseGoogle"/>
             <!-- Agrega todas las clases de test que necesites -->
         </classes>
     </test>
